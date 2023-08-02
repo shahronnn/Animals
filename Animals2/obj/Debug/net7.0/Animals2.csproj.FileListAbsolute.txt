@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C# course\Animals\Animals2\obj\Debug\net7.0\Animals2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# course\Animals\Animals2\obj\Debug\net7.0\Animals2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# course\Animals\Animals2\obj\Debug\net7.0\Animals2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# course\Animals\Animals2\obj\Debug\net7.0\Animals2.AssemblyInfo.cs
+C:\Users\User\Desktop\C# course\Animals\Animals2\obj\Debug\net7.0\Animals2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# course\Animals\Animals2\bin\Debug\net7.0\Animals2.exe
+C:\Users\User\Desktop\C# course\Animals\Animals2\bin\Debug\net7.0\Animals2.deps.json
+C:\Users\User\Desktop\C# course\Animals\Animals2\bin\Debug\net7.0\Animals2.runtimeconfig.json
+C:\Users\User\Desktop\C# course\Animals\Animals2\bin\Debug\net7.0\Animals2.dll
+C:\Users\User\Desktop\C# course\Animals\Animals2\bin\Debug\net7.0\Animals2.pdb
+C:\Users\User\Desktop\C# course\Animals\Animals2\obj\Debug\net7.0\Animals2.dll
+C:\Users\User\Desktop\C# course\Animals\Animals2\obj\Debug\net7.0\refint\Animals2.dll
+C:\Users\User\Desktop\C# course\Animals\Animals2\obj\Debug\net7.0\Animals2.pdb
+C:\Users\User\Desktop\C# course\Animals\Animals2\obj\Debug\net7.0\Animals2.genruntimeconfig.cache
+C:\Users\User\Desktop\C# course\Animals\Animals2\obj\Debug\net7.0\ref\Animals2.dll
